@@ -1,4 +1,7 @@
-timeout-demo
-============
+grails-session-timeout-ui-demo
+==============================
 
-Demo Application of the Grails Timeout Plugin
+Demo Application of the Grails Session Timeout UI Plugin
+
+Username: me
+password: password
